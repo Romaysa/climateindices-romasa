@@ -5,7 +5,7 @@ Click==7.0
 cloudpickle==1.2.2
 cytoolz==0.10.1
 dask==2.9.0
-distributed==2.9.0
+distributed==2021.10.0
 fsspec==0.6.1
 HeapDict==1.0.1
 Jinja2==2.10.3
